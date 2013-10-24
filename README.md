@@ -1,0 +1,4 @@
+bash-goodies
+============
+
+quick snippets
